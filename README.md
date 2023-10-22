@@ -1,5 +1,4 @@
-![image](https://github.com/harsh-kamde/WebAppProject/assets/105597593/72ff397b-3f94-41d2-99bb-591236a817c9)# WebAppProject: Online Learning Platform 
-
+#WebApp: Online Learning Platform 
 ## Introduction: 
 The purpose of this project is to create a WebApp similar to Udemy where users can purchase courses and instructors can create and publish courses. The WebApp will have features such as a login system, course listing page, course details page, payment gateway, and instructor dashboard. The WebApp will be developed using Bootstrap, AJAX, PHP, and MySQL.
 ## Technologies Used:
