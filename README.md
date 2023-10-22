@@ -1,21 +1,21 @@
 # WebAppProject
 
-# # Introduction: 
+## Introduction: 
 The purpose of this project is to create a WebApp similar to Udemy where users can purchase courses and instructors can create and publish courses. The WebApp will have features such as a login system, course listing page, course details page, payment gateway, and instructor dashboard. The WebApp will be developed using Bootstrap, AJAX, PHP, and MySQL.
-# # Technologies Used:
+## Technologies Used:
 The following technologies will be used in the development of this WebApp:
 •	Bootstrap for front-end design and layout.
 •	AJAX for asynchronous communication between the client-side and server-side.
 •	PHP for server-side scripting and business logic implementation.
 •	MySQL for the database management system.
 
-# # Architecture: 
+## Architecture: 
 The architecture of the WebApp will be based on the Model-View-Controller (MVC) design pattern. The application will be divided into three layers:
 •	Model: This layer will contain the business logic and data access layer of the application.
 •	View: This layer will contain the front-end design and user interface of the application.
 •	Controller: This layer will contain the logic for controlling the flow of the application.
 
-# # Database Schema: 
+## Database Schema: 
 The following database schema will be used for the WebApp:
 1.	Users: This table will contain the details of the registered users.
 2.	Courses: This table will contain the details of the available courses.
@@ -24,7 +24,7 @@ The following database schema will be used for the WebApp:
 5.	Videos: This table will contain the details of the videos uploaded by instructors for their courses.
 6.	Course Progress Table: This table will contain the details of the course progress of the users.
 
-# # Pages and Wireframes:
+## Pages and Wireframes:
 The following pages will be developed for the WebApp along with their respective wireframes:
 •	Home Page: This page will contain the details of the WebApp and the available courses.
 •	Login Page: This page will be used for the users to login to their account.
@@ -38,7 +38,7 @@ The following pages will be developed for the WebApp along with their respective
 •	Course Creation Page: This page will be used by instructors to create and publish new courses.
 •	Instructor Dashboard: This page will contain the details of the instructor's courses and course analytics.
 
-# # Front-end Milestones:
+## Front-end Milestones:
 The following front-end milestones will be achieved during the development of the WebApp:
 •	Home Page: Design and development.
 •	Login Page: Design and development.
@@ -52,7 +52,7 @@ The following front-end milestones will be achieved during the development of th
 •	Course Creation Page: Design and development.
 •	Instructor Dashboard Page: Design and development.
 
-# # Back-end Milestones: 
+## Back-end Milestones: 
 The following back-end milestones will be achieved during the development of the WebApp:
 •	User Authentication: Implementation of login and registration functionality.
 •	Course Management: Implementation of course creation and publishing functionality for instructors.
@@ -61,7 +61,7 @@ The following back-end milestones will be achieved during the development of the
 •	Enrollments Management: Implementation of course enrollment and progress tracking functionality.
 •	More not identified yet…
 
-# # Conclusion: 
+## Conclusion: 
 In conclusion, this project aims to develop a WebApp similar to Udemy where users can purchase courses and instructors can create and publish courses. The WebApp will be developed using Bootstrap, AJAX, PHP, and MySQL.
 
 ![01](https://github.com/harsh-kamde/WebAppProject/assets/105597593/1889e881-320a-4ebf-ac46-ee1b7e2b935c)
