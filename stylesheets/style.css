@@ -1,0 +1,51 @@
+body::before{
+    display: block;
+    content: '';
+    height: 55px;
+}
+
+
+/* Scroller styling */
+.scroller {
+    height: 1em;
+    position: relative;
+    overflow: hidden;
+    width: 10em;
+   
+  }
+  .scroller > span {
+    position: absolute;
+    animation: slide 5s infinite;
+    font-weight: bold;
+    
+  }
+  @keyframes slide {
+    0% {
+      top: 0;
+    }
+    25% {
+      top: -1.2em;
+    }
+    50% {
+      top: -2.4em;
+    }
+    75% {
+      top: -3.6em;
+    }
+  }
+  @media only screen and (max-width: 600px)  {
+    .scrolling-text-responsive{
+        margin-left: 1rem;
+    }
+
+    .card:not(:first-child){
+      display: none;
+    }
+
+    .courses-heading{
+      text-align: center;
+    }
+
+  }
+ 
+  
