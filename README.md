@@ -1,4 +1,4 @@
-#WebApp: Online Learning Platform 
+# WebApp: Online Learning Platform 
 ## Introduction: 
 The purpose of this project is to create a WebApp similar to Udemy where users can purchase courses and instructors can create and publish courses. The WebApp will have features such as a login system, course listing page, course details page, payment gateway, and instructor dashboard. The WebApp will be developed using Bootstrap, AJAX, PHP, and MySQL.
 ## Technologies Used:
