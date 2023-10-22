@@ -1,8 +1,4 @@
 # WebAppProject
-![01](https://github.com/harsh-kamde/WebAppProject/assets/105597593/1889e881-320a-4ebf-ac46-ee1b7e2b935c)
-![02](https://github.com/harsh-kamde/WebAppProject/assets/105597593/5790f9f1-df56-41fc-ac32-7846c96806aa)
-![04](https://github.com/harsh-kamde/WebAppProject/assets/105597593/db01cf9f-2919-4b92-8597-5078b281002e)
-![03](https://github.com/harsh-kamde/WebAppProject/assets/105597593/5360cb6a-a55f-4627-bc3f-cfe09d67959f)
 
 # # Introduction: 
 The purpose of this project is to create a WebApp similar to Udemy where users can purchase courses and instructors can create and publish courses. The WebApp will have features such as a login system, course listing page, course details page, payment gateway, and instructor dashboard. The WebApp will be developed using Bootstrap, AJAX, PHP, and MySQL.
@@ -67,4 +63,10 @@ The following back-end milestones will be achieved during the development of the
 
 # # Conclusion: 
 In conclusion, this project aims to develop a WebApp similar to Udemy where users can purchase courses and instructors can create and publish courses. The WebApp will be developed using Bootstrap, AJAX, PHP, and MySQL.
+
+![01](https://github.com/harsh-kamde/WebAppProject/assets/105597593/1889e881-320a-4ebf-ac46-ee1b7e2b935c)
+![02](https://github.com/harsh-kamde/WebAppProject/assets/105597593/5790f9f1-df56-41fc-ac32-7846c96806aa)
+![04](https://github.com/harsh-kamde/WebAppProject/assets/105597593/db01cf9f-2919-4b92-8597-5078b281002e)
+![03](https://github.com/harsh-kamde/WebAppProject/assets/105597593/5360cb6a-a55f-4627-bc3f-cfe09d67959f)
+
 
