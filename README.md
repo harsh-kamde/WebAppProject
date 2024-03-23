@@ -61,10 +61,10 @@ The following back-end milestones will be achieved during the development of the
 •	Payment Gateway Integration: Integration of payment gateway for processing user payments.
 •	Video Management: Implementation of video upload and streaming functionality.
 •	Enrollments Management: Implementation of course enrollment and progress tracking functionality.
-•	More not identified yet…
+•	Dynamic Course Creation: Implementation of dynamic course creation by the Instructor 
 
 ## Conclusion: 
-In conclusion, this project aims to develop a WebApp similar to Udemy where users can purchase courses and instructors can create and publish courses. The WebApp will be developed using Bootstrap, AJAX, PHP, and MySQL.
+In conclusion, this project aims to develop a WebApp similar to Udemy where users can purchase courses and instructors can create and publish courses. The WebApp will be developed using Bootstrap, AJAX, PHP, MySQL and Payment Gateway.
 
 ## Project Screenshots: 
 ![01](https://github.com/harsh-kamde/WebAppProject/assets/105597593/1889e881-320a-4ebf-ac46-ee1b7e2b935c)
